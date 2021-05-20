@@ -493,10 +493,12 @@ header {
 }
 
 .responsive_iconmp {
-	width: 150px;
-	height: 50px;
-	left: -60px;
-	position: relative;
+	width: 50%;
+	height: 40%;
+	left: -15%;
+	position:relative;
+
+
 }
 
 .responsive_icon_bottom {
