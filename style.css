@@ -291,7 +291,7 @@ header {
 	.responsive_title {
 		font-size: 1.5rem;
 		box-sizing: border-box;
-		margin-left: 30%;
+		margin-left: 40%;
 		order: 0;
 
 
@@ -309,8 +309,7 @@ header {
 		font-size: 2rem;
 		margin-top: 1rem;
 		order: 3;
-		margin-left:7rem;
-		position: sticky;
+		margin-left: 12rem
 	}
 
 	.responsive_submenu {
@@ -373,7 +372,7 @@ header {
 .responsive_main-info {
 	width: 100%;
 	background-color:#9073E4;
-	margin-top: 0px;
+	margin-top: 3%;
 	height:15%;
 
 
@@ -382,10 +381,12 @@ header {
 .responsive_info {
 	width: 50%;
 	margin: auto;
-	padding-top: 1em;
+	padding-top: 2em;
+	height: 20vh
+}
 
-
-
+.responsive_main-info p{
+	font-size: 1.5em;
 }
 
 .responsive_main_gallery {
@@ -442,7 +443,99 @@ header {
 
 }
 
+
+
+.responsive_products {
+	border: 2px solid grey;
+	width: 100%;
+	height: 150px;
+	margin-top: 20px;
+	display: flex
+
 }
+
+.responsive_pagos {
+	height: 100%;
+	width: 100%;
+	display: inline-flex;
+
+
+}
+
+.responsive_pagos p{
+	margin-left: 10%
+}
+
+.responsive_retirar {
+	width: 30%;
+	height: 100%;
+	border-right: 2px solid #7A7ED2;
+	margin-left: 2%;
+
+}
+
+.responsive_mercadopago {
+	margin-top: 15px;
+	border-right: 2px solid #7A7ED2;
+	width: 35%;
+	margin-left: 6%;
+
+}
+
+
+
+.responsive_envios {
+	margin-top: 30px;
+	width: 30%;
+	margin-left:2%;
+	margin-right: -10%
+
+}
+
+.responsive_iconmp {
+	width: 150px;
+	height: 50px;
+	left: -60px;
+	position: relative;
+}
+
+.responsive_icon_bottom {
+	font-size: 35px;
+	color: #585C95;
+	margin-left: 20px;
+
+}
+
+.responsive_bottom_card {
+	margin-left:-15%
+
+
+}
+
+.responsive_bottom_car {
+	margin-left: 80px;
+	margin-top: 10px
+}	
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
